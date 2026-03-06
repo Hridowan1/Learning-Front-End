@@ -10,7 +10,8 @@ I will upload every weeks update here. I am going to do a 60 day challenge to le
     
     DAY 2/3/4 
         
-          I learned Div, how it works andy CSS style , background-color, aligning div , 
+          I learned Div, how it works andy CSS style , background-color, aligning div 
+          I also learned nav. Now I can create navigation bar. 
         
 
             
