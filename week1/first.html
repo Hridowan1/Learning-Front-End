@@ -2,15 +2,55 @@
 <html>
     <head>
         <title>My First Web Page</title>
+
+    <style>
+        .grid-container{
+            display: grid;
+            grid-template-columns: auto auto auto;
+        }
+        nav{
+            background-color: black;
+            padding: 10px;  
+        }
+            nav ul{
+                list-style-type: none; /* Remove default list styling */
+                margin: 0;
+                padding: 0;
+                display: grid;
+                grid-template-columns: auto auto; /* Two columns for the links */
+                gap: 10px; /* Space between the links */
+            }
+                nav ul li{
+                    background-color: lightblue;
+                    border-radius: 4px;
+                }
+                    nav ul li a{
+                        display: block;
+                        padding: 10px;
+                        text-decoration: none; /* Remove underline from links */
+                        color: black; /* Link color */
+                    }
+                    nav ul li a:hover{
+                        background-color: lightgray; /* Change background on hover */
+                    }
+    </style>
     </head>
 
     <body>
-        <h1>Welcome to My First Web Page</h1>
+        <h1 style="text-align: center;">Welcome to My First Web Page</h1>
+        <nav>
+            <ul>
+                <li><a href="page2.html">Page 2</a></li>
+                <li><a href="page3.html">Page 3</a></li>
+            </ul>
+        </nav>
+
         <h2>this is heading 2</h2>
         <h3>this is heading 3</h3>
         <h4>this is heading 4</h4>
         <h5>this is heading 5</h5>
         <h6>this is heading 6</h6>
+
         <p>this is paragraph.I knew html and now I'm learning more about it from <b>scratch</b></p>
         <p>Let's add an image: <img src="./images.jpg" alt="Here should be an image"></p>
         <p> I learned if I copy path from the directory, the path uses backwaed slashes (i.e., \ instead of /) in Windows, 
@@ -24,5 +64,15 @@
             <a href="https://www.google.com/"  target=  "_blank">click here</a>  
 
         </P>
+
+        <p> <i>let's learn <strong>div</strong> tags</i></p>
+            <div class="grid-container">
+                
+                <div style="background-color:aqua"><h1> this text is inside a div tag</h1> </div>
+                <div style="background-color:lightblue"><h1> this text is inside another div tag</h1></div> 
+                <div style="background-color:lightgreen"><h1> this text is inside another div tag</h1></div>
+            </div>
+
+
     </body>
 </html>

@@ -8,7 +8,11 @@ I will upload every weeks update here. I am going to do a 60 day challenge to le
 
             I also learned about hyperlink "target" it is used to open the link in a different window.  
     
-    DAY 2 
+    DAY 2/3/4 
+        
+          I learned Div, how it works andy CSS style , background-color, aligning div , 
+        
+
             
       
 
