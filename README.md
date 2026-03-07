@@ -12,8 +12,21 @@ I will upload every weeks update here. I am going to do a 60 day challenge to le
         
           I learned Div, how it works andy CSS style , background-color, aligning div 
           I also learned nav. Now I can create navigation bar. 
-        
 
-            
+    DAY 5/6/7 
+        
+        Mini Project: Interior Space Website
+        
+        I created a simple interior design website with multiple pages. 
+        
+        Concepts Learned:
+        - Background images (CSS background-image, background-size, background-position)
+        - Transparent boxes using RGBA colors
+        - Flexbox for responsive layout (display: flex, flex-wrap, gap)
+        - Footer design with multiple sections
+        - Navigation between pages
+        - Box-shadow and hover effects for interactivity
+        - Using CSS for styling (border-radius, padding, margin)
+
       
 
