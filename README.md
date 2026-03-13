@@ -27,6 +27,17 @@ I will upload every weeks update here. I am going to do a 60 day challenge to le
         - Navigation between pages
         - Box-shadow and hover effects for interactivity
         - Using CSS for styling (border-radius, padding, margin)
+# week2
+   DAY 1/2 
 
+        I learned CSS flexbox ,
+        "justify-content" is the main axis alignment 
+        "align-items" is the cross axis alignment 
+        "flex-wrap" responsice line breaks 
+        "flex-shrink" allow getting smaller 
+        min-width and max-width to limit grow or shrink 
+
+        I also learned how to create hover effect 
+    
       
 

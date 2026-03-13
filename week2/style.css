@@ -1,0 +1,41 @@
+body{
+    min-height: 500px;
+    border : 2px solid black;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    gap: 20px;
+    flex-wrap:wrap;
+    
+}
+
+
+.container{
+    flex-shrink: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 200px;
+    background-color: rgb(32, 132, 233);
+    font-size: 30px;
+    
+}
+.container:hover{
+    background-color: rgb(32, 233, 132);
+}
+#box1:hover{
+    background-color: rgb(241, 19, 204);
+}
+#box2:hover{
+    background-color: rgb(195, 235, 18);
+}
+#box3:hover{
+    background-color: rgb(175, 9, 139);
+}
+#box4:hover{
+    background-color: rgb(233, 234, 234);
+}
+#box5:hover{
+    background-color: rgb(13, 16, 1);
+}
