@@ -38,6 +38,8 @@ I will upload every weeks update here. I am going to do a 60 day challenge to le
         min-width and max-width to limit grow or shrink 
 
         I also learned how to create hover effect 
-    
+
+# I am back after 10 days Eid break (week 2 work will be continued)
+
       
 
