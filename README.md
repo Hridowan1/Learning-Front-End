@@ -40,6 +40,8 @@ I will upload every weeks update here. I am going to do a 60 day challenge to le
         I also learned how to create hover effect 
 
 # I am back after 10 days Eid break (week 2 work will be continued)
-
+  DATE 29/3/2026 
+   Today I learned how tailwind CSS works 
+   I tried to convert basic CSS to tailwind CSS  
       
 
