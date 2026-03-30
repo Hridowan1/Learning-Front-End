@@ -49,5 +49,12 @@ I will upload every weeks update here. I am going to do a 60 day challenge to le
 
         CSS concepts 
                 1. Inheritance : elements  will inherit properties from their parents 
-                2. Box MOdel   : width & height , Margin 
+                2. Box MOdel   : width & height , Margin ,flexbox 
+
+ DATE 31/3/2026
+
+        
+
+        
+
 
