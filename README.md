@@ -42,7 +42,12 @@ I will upload every weeks update here. I am going to do a 60 day challenge to le
 # I am back after 10 days Eid break (week 2 work will be continued)
   DATE 29/3/2026 
 
-         Today I learned how tailwind CSS works 
+        Today I learned how tailwind CSS works 
         I tried to convert basic CSS to tailwind CSS  
-      
+
+  DATE 30/3/2026        
+
+        CSS concepts 
+                1. Inheritance : elements  will inherit properties from their parents 
+                2. Box MOdel   : width & height , Margin 
 
