@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(253, 253, 253);
+    margin: 0px;
+}
+
+h1{
+    background-color:#281b2b;
+    text-align: center;
+    color: #FCD801;
+    font-size: 72px;
+    margin-top:0px;
+    padding: 20px 0px;
+}
+.headings{
+    background-color: #281b2b;
+    color:#FCD801;
+    text-align: center;
+    font-size: 48px;
+    padding: 20px;
+    border-bottom: #00c540 5px solid;
+}
+.targeted-select{
+    color: #fafdfbef;
+}
+.container{
+    border: 2px solid #281b2b;
+    max-width:1000px;
+    margin: 0 auto;
+    padding :0 20px;
+}
