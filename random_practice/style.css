@@ -18,13 +18,44 @@ h1{
     font-size: 48px;
     padding: 20px;
     border-bottom: #00c540 5px solid;
+    
 }
 .targeted-select{
     color: #fafdfbef;
 }
 .container{
-    border: 2px solid #281b2b;
+    display: flex;
     max-width:1000px;
     margin: 0 auto;
     padding :0 20px;
+    gap: 40px;
+}
+.div1{
+    display: flex;
+    gap:20px;
+}
+img{
+    width: 400px;
+    height: 500px;
+}
+.div2{
+    background-color:#9ae84f ;
+    width: 80%;
+    text-align: left;
+    padding-top:0;
+    padding-left:10px;
+    padding-right:10px;
+    padding-bottom: 10px;
+    margin-top:35px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+}
+.headings2{
+    
+    background-color: #281b2b;
+    color:#FCD801;
+    text-align: center;
+    font-size: 48px;
+    padding: 20px;
+    border-bottom: #00c540 5px solid;
+    margin-top:10px
 }

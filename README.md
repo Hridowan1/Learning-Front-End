@@ -51,8 +51,14 @@ I will upload every weeks update here. I am going to do a 60 day challenge to le
                 1. Inheritance : elements  will inherit properties from their parents 
                 2. Box MOdel   : width & height , Margin ,flexbox 
 
- DATE 31/3/2026
+ DATE 3/4/2026
        
+       Today is one month of my journey. I learned HTML5 and CSS concepts. This concepts are enough to move to javasript. 
+       I will keep learning as I continue my journey to be a frontend developer. 
+
+       I learned div and how to control their position with flexbox.
+       I also learned how to create shadow of a box-element(div,card,image,button). Now I can create sidebar and build good looking 
+       webpage with html and css. please see [random_practice](https://github.com/Hridowan1/Learning-Front-End/tree/main/random_practice) folder.  
        
 
         
