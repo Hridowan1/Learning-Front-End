@@ -58,7 +58,11 @@ I will upload every weeks update here. I am going to do a 60 day challenge to le
 
        I learned div and how to control their position with flexbox.
        I also learned how to create shadow of a box-element(div,card,image,button). Now I can create sidebar and build good looking 
-       webpage with html and css. please see [random_practice](https://github.com/Hridowan1/Learning-Front-End/tree/main/random_practice) folder.  
+       webpage with html and css. 
+
+📁 Practice files:  
+
+[random_practice](https://github.com/Hridowan1/Learning-Front-End/tree/main/random_practice)  
        
 
         
