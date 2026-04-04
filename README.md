@@ -63,6 +63,10 @@ I will upload every weeks update here. I am going to do a 60 day challenge to le
 📁 Practice files:  
 
 [random_practice](https://github.com/Hridowan1/Learning-Front-End/tree/main/random_practice)  
+
+DATE 4/4/2026 
+
+      Today I learned operators, variables , conditional statement(if-else,switch) , and for loop 
        
 
         
