@@ -1,0 +1,26 @@
+body{
+    background-color:azure;
+
+}
+#increment{
+    background-color:green;
+    color:white;
+    padding:10px;
+    border-radius:5px;
+    border:none;
+    cursor:pointer;
+}
+#increment:hover{
+    background-color:lightgreen;
+}   
+#decrement{
+    background-color:red;
+    color:white;
+    padding:10px;
+    border-radius:5px;
+    border:none;
+    cursor:pointer;
+}
+#decrement:hover{
+    background-color:lightcoral;
+}
